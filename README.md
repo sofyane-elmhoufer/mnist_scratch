@@ -47,7 +47,7 @@ mnist_scratch/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/Sofyane00/mnist_scratch.git
+git clone https://github.com/sofyane-elmhoufer/mnist_scratch.git
 cd mnist_scratch
 ```
 
